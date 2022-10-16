@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wahyunufalazmi
 - 👀 I’m interested in web development, cyber security, ethical hacking and digital forensic
-- 🌱 I’m currently learning CodeIgniter and CompTIA Security +
+- 🌱 I’m currently learning CompTIA Security +
 - 📫 How to reach me? Contact me through wahyuazmi27@gmail.com
 
 <!---
